@@ -10,3 +10,47 @@ License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: creamsoda
 */
+.carousel_home a.jet-carousel__item-link img {
+    max-width: 95px !important;
+}
+.carousel_home .jet-carousel__item-title a{
+	color: #1A2320 !important;
+}
+.carousel_home a.jet-carousel__item-link img {
+    background-color: #b2eee6;
+    padding: 25px;
+    border-radius: 50% !important;
+}
+.carousel_home a.jet-carousel__item-link img {
+    background-color: #b2eee6;
+    padding: 18px;
+    border-radius: 50% !important;
+    width: auto;
+    max-height: 89px;
+    transition-duration: 0.8s;
+}
+.carousel_home .jet-carousel__item-inner:hover a.jet-carousel__item-link img {
+	background-color: #fff;
+	transition-duration: 0.3s;
+}
+.rotate_text li.elementor-icon-list-item{
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+.rotate_text .elementor-icon-list-text {
+    min-width: 250px;
+}
+@media(min-width: 1200px){
+
+	.carousel_home .jet-arrow.prev-arrow.slick-arrow i {
+	    left: -15px;
+	    position: relative;
+	}
+	.carousel_home .jet-arrow.next-arrow.slick-arrow i {
+	    position: absolute;
+	    right: -10px;
+	}
+}
