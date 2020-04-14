@@ -1,0 +1,7 @@
+.jet-woo-product-gallery-cx-radio .cx-radio-item {
+	display: inline-block;
+}
+
+.jet-woo-product-gallery-cx-radio .cx-radio-item + .cx-radio-item {
+	margin-left: 10px;
+}

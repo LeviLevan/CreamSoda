@@ -1,0 +1,36 @@
+<?php
+/**
+ * Product gallery main image template
+ */
+
+$props = wc_get_product_attachment_props( get_post_thumbnail_id( $product_id ), $post );
+$image = get_the_post_thumbnail( $product_id, $images_size, array(
+	'title'                   => $props['title'],
+	'alt'                     => $props['alt'],
+	'data-caption'            => $props['caption'],
+	'data-src'                => $props['src'],
+	'data-large_image'        => $props['full_src'],
+	'data-large_image_width'  => $props['full_src_w'],
+	'data-large_image_height' => $props['full_src_h'],
+	'class'                   => 'wp-post-image',
+) );
+
+$this->add_render_attribute( 'image_link', 'class', 'jet-woo-product-gallery__image-link' );
+$this->add_render_attribute( 'image_link', 'href', esc_url( $props['url'] ) );
+$this->add_render_attribute( 'image_link', 'itemprop', 'image' );
+$this->add_render_attribute( 'image_link', 'title', esc_attr( $props['caption'] ) );
+$this->add_render_attribute( 'image_link', 'rel', 'prettyPhoto' . $gallery );
+
+?>
+<div class="jet-woo-product-gallery__image-item featured" id="<?php echo $anchor_nav_controller_ids[0] ?>">
+	<div class="jet-woo-product-gallery__image <?php echo $zoom ?>">
+	  <?php
+	  if ( $enable_gallery ) {
+		  jet_woo_product_gallery_functions()->get_gallery_trigger_button( $settings['gallery_button_icon'] );
+	  }
+	  ?>
+		<a <?php $this->print_render_attribute_string( 'image_link' ); ?>>
+		<?php echo $image; ?>
+		</a>
+	</div>
+</div>

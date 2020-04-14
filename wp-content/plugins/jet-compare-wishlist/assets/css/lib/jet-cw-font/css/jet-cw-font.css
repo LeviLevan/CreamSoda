@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'jet-cw';
+  src:  url('../fonts/jet-cw.eot?jo5i4x');
+  src:  url('../fonts/jet-cw.eot?jo5i4x#iefix') format('embedded-opentype'),
+    url('../fonts/jet-cw.ttf?jo5i4x') format('truetype'),
+    url('../fonts/jet-cw.woff?jo5i4x') format('woff'),
+    url('../fonts/jet-cw.svg?jo5i4x#jet-cw') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="jet-cw-icon-"], [class*=" jet-cw-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'jet-cw' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  font-size: 50px;
+  display: block;
+  margin: -14px 0 -8px 0;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.jet-cw-icon-1:before {
+  content: "\e901";
+}
+.jet-cw-icon-2:before {
+  content: "\e902";
+}
+.jet-cw-icon-3:before {
+  content: "\e903";
+}
+.jet-cw-icon-4:before {
+  content: "\e904";
+}
+.jet-cw-icon-5:before {
+  content: "\e905";
+}
+.jet-cw-icon-6:before {
+  content: "\e906";
+}
+.jet-cw-icon-7:before {
+  content: "\e907";
+}
+.jet-cw-icon-8:before {
+  content: "\e900";
+}

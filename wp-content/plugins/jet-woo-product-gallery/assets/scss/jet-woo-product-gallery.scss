@@ -1,0 +1,32 @@
+@import "widgets/gallery-slider";
+@import "widgets/gallery-grid";
+@import "widgets/gallery-anchor-nav";
+@import "widgets/gallery-modern";
+
+@import "extensions/photoswipe";
+@import "extensions/zoom";
+@import "extensions/video";
+
+.jet-woo-product-gallery{
+	&__image{
+		position: relative;
+		font-size: 0;
+		
+		&.jet-woo-product-gallery--with-video{
+			border-radius: 0!important;
+		}
+		
+		a{
+			display: block;
+		}
+	}
+	
+	&__item--with-placeholder{
+		position: relative;
+		font-size: 0;
+		img{
+			width: 100%;
+		}
+	}
+}
+
