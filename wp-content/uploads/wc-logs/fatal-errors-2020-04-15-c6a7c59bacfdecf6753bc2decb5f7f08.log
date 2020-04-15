@@ -1,0 +1,9 @@
+2020-04-15T11:49:39+00:00 CRITICAL Uncaught Error: Call to a member function get_edit_url() on boolean in D:\Programs\OSPanel\domains\localhost\creamsoda-dev\wp-content\plugins\jet-popup\includes\export-import.php:223
+Stack trace:
+#0 D:\Programs\OSPanel\domains\localhost\creamsoda-dev\wp-includes\class-wp-hook.php(287): Jet_Export_Import->import_popup_preset('')
+#1 D:\Programs\OSPanel\domains\localhost\creamsoda-dev\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\Programs\OSPanel\domains\localhost\creamsoda-dev\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 D:\Programs\OSPanel\domains\localhost\creamsoda-dev\wp-admin\admin.php(401): do_action('admin_action_je...')
+#4 {main}
+  thrown в D:\Programs\OSPanel\domains\localhost\creamsoda-dev\wp-content\plugins\jet-popup\includes\export-import.php на строке 223
+
