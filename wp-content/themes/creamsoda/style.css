@@ -91,6 +91,13 @@ Text Domain: creamsoda
 .rotate_text .elementor-icon-list-text {
     min-width: 250px;
 }
+iframe {
+  overflow: hidden;
+}
+iframe {
+    border-radius: 2%;
+}
+
 @media(min-width: 1200px){
 
 	.carousel_home .jet-arrow.prev-arrow.slick-arrow i {
