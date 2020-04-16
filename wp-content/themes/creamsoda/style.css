@@ -10,6 +10,12 @@ License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: creamsoda
 */
+.pointer-events .jet-woo-product-thumbnail {
+    pointer-events: none;
+}
+.pointer-events .jet-woo-product-title{
+    pointer-events: none;
+ }
 .home_left_column {
     position: absolute !important;
     z-index: 999;
@@ -97,7 +103,68 @@ iframe {
 iframe {
     border-radius: 2%;
 }
-
+.jet-woo-product-excerpt {
+    min-height: 45px;
+}
+.xt_wooqv-is-light-bg .xt_wooqv-item-info p.price, .xt_wooqv-is-light-bg .xt_wooqv-item-info span.price {
+    color: #1a2322;
+    font-weight: 600;
+}
+.product_meta {
+    display: none;
+}
+.xt_wooqv-modal-buttons-pos-inline .xt_wooqv-item-info .quantity {
+    margin-right: 0 !important;
+}
+.xt_wooqv-button.xt_wooqv-more-info.button {
+    display: none;
+}
+.woocommerce .button{
+	background-color: #1a2322 !important;
+}
+.woocommerce .button:hover{
+	background-color: #73cdc6 !important;
+}
+#xt_wooqv a {
+    color: #fff;
+}
+.added_to_cart.wc-forward{
+	background-color: #1a2322 !important;
+}
+.added_to_cart.wc-forward:hover{
+	background-color: #73cdc6 !important;
+}
+.woocommerce-message::before {
+    background-color: #1a2322 !important;
+}
+.woocommerce-cart table tr td.actions > .button{
+	color:#fff !important;
+}
+.woocommerce-info::before {
+    background-color: #1a2322 !important;
+}
+ .woocommerce-cart .cart-collaterals table tr.order-total .amount {
+    color: #1a2322 !important;
+}
+.woocommerce-shipping-calculator a {
+	font-weight: 600;
+	color: #73cdc6 !important;
+}
+.woocommerce-cart .cart-collaterals {
+    padding: 5px 25px 25px !important;
+}
+.checkout.woocommerce-checkout tfoot {
+    display: block;
+}
+.woocommerce-checkout .woocommerce-checkout-review-order table tr td:last-child {
+    width: auto !important;
+}
+.checkout.woocommerce-checkout .woocommerce-shipping-fields {
+    display: none;
+}
+.pointer-events .jet-woo-products__item:hover .jet-woo-product-button a.xt_wooqv-trigger.button.alt.xt_wooqv-before.xt_wooqv-icontype-font{
+	box-shadow: 0px 0px 10px 0px #73CDC6;
+}
 @media(min-width: 1200px){
 
 	.carousel_home .jet-arrow.prev-arrow.slick-arrow i {
