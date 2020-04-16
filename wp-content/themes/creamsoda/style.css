@@ -16,6 +16,9 @@ Text Domain: creamsoda
 .pointer-events .jet-woo-product-title{
     pointer-events: none;
  }
+ .woocommerce-mini-cart.cart_list.product_list_widget li a {
+    pointer-events: none;
+}
 .home_left_column {
     position: absolute !important;
     z-index: 999;
