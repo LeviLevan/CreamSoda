@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEI,qDAAY,CACR,eAAe,CAAE,SAAS,CAI1B,qHAA6B,CACzB,cAAc,CAAE,MAAM,CAG1B,gEAAoB,CAChB,OAAO,CAAE,YAAY,CACrB,WAAW,CAAE,GAAG",
+"sources": ["../../../../../../../../../../../../../../../Volumes/G-DRIVE/Sites/demos.xplodedthemes.dev/app/public/wp-content/plugins/xt-woo-quick-view/xt-framework/includes/freemius/assets/scss/admin/gdpr-optin-notice.scss"],
+"names": [],
+"file": "gdpr-optin-notice.css"
+}

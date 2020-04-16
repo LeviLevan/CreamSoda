@@ -1,0 +1,2464 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: XT WooCommerce Quick View\n"
+"POT-Creation-Date: 2020-01-29 16:57-0500\n"
+"PO-Revision-Date: 2020-01-29 16:58-0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: xt-woo-quick-view.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: deploy\n"
+
+#: admin/class-admin.php:69
+msgid "Modal Trigger"
+msgstr ""
+
+#: admin/class-admin.php:75
+msgid "Modal Overlay"
+msgstr ""
+
+#: admin/class-admin.php:81
+msgid "Modal Box"
+msgstr ""
+
+#: admin/class-admin.php:87
+msgid "Modal Product Slider"
+msgstr ""
+
+#: admin/class-admin.php:93
+msgid "Modal Product Info"
+msgstr ""
+
+#: admin/class-admin.php:99 admin/customizer/fields/modal-close-button.php:8
+msgid "Modal Close Button"
+msgstr ""
+
+#: admin/class-admin.php:105
+msgid "Modal Navigation Arrows"
+msgstr ""
+
+#: admin/customizer/fields/modal-box.php:8
+msgid "Close modal when product added to cart"
+msgstr ""
+
+#: admin/customizer/fields/modal-box.php:17
+msgid "Modal Box Background Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-box.php:33
+msgid "Modal Box Shadow Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-box.php:53
+msgid "Modal Box Radius"
+msgstr ""
+
+#: admin/customizer/fields/modal-box.php:75
+msgid "Modal Box Shadow Blur"
+msgstr ""
+
+#: admin/customizer/fields/modal-box.php:97
+msgid "Modal Box Shadow Spread"
+msgstr ""
+
+#: admin/customizer/fields/modal-close-button.php:11
+#: admin/customizer/fields/modal-product-slider.php:157
+#: admin/customizer/fields/modal-product-slider.php:170
+#: admin/customizer/fields/modal-product-slider.php:184
+#: admin/customizer/fields/modal-product-slider.php:302
+msgid "Disable"
+msgstr ""
+
+#: admin/customizer/fields/modal-close-button.php:12
+#: admin/customizer/fields/modal-product-slider.php:158
+#: admin/customizer/fields/modal-product-slider.php:171
+#: admin/customizer/fields/modal-product-slider.php:185
+#: admin/customizer/fields/modal-product-slider.php:303
+msgid "Enable"
+msgstr ""
+
+#: admin/customizer/fields/modal-close-button.php:21
+msgid "Modal Close Icon"
+msgstr ""
+
+#: admin/customizer/fields/modal-close-button.php:45
+msgid "Modal Close Icon Size"
+msgstr ""
+
+#: admin/customizer/fields/modal-close-button.php:74
+msgid "Modal Close Icon Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-close-button.php:96
+msgid "Modal Close Icon Hover Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-navigation.php:8
+msgid "Navigation Arrow Icon"
+msgstr ""
+
+#: admin/customizer/fields/modal-navigation.php:25
+msgid "Navigation Arrow Icon Size"
+msgstr ""
+
+#: admin/customizer/fields/modal-navigation.php:47
+msgid "Navigation Arrow Icon Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-navigation.php:62
+msgid "Navigation Arrow Icon Hover Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:8
+msgid "Modal Overlay Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:28
+msgid "Modal Overlay Spinner"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:32
+msgid "No Spinner"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:33
+msgid "Rotating Plane"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:34
+msgid "Double Bounce"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:35
+msgid "Wave"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:36
+msgid "Wandering Cubes"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:37
+msgid "Pulse"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:38
+msgid "Chasing Dots"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:39
+msgid "Three Bounce"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:40
+msgid "Circle"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:41
+msgid "Cube Grid"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:42
+msgid "Fading Circle"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:43
+msgid "Folding Cube"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:44
+msgid "Boring Loading Text"
+msgstr ""
+
+#: admin/customizer/fields/modal-overlay.php:61
+msgid "Modal Overlay Spinner Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:10
+msgid "Product Info Container Padding "
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:38
+msgid "Product Title Typography"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:69
+msgid "Product Title Bottom Margin "
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:91
+msgid "Product Rating Stars Size"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:112
+msgid "Product Rating Stars Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:128
+msgid "Product Price Typography"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:159
+msgid "Product Old Price Typography"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:190
+msgid "Product Price Bottom Margin "
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:212
+msgid "Product Description Typography"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:243
+msgid ""
+"Automatically generate product short description from main description if "
+"empty"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:252
+msgid "Product Description Bottom Margin "
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:275
+msgid "Product Meta Labels Typography"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:306
+msgid "Product Meta Values Typography"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:337
+msgid "Product Meta Links Typography"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:368
+msgid "Product Metas Bottom Margin "
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:390
+msgid "Product Variations Bottom Margin "
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:412
+msgid "Modal Buttons Position"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:415
+msgid "Next to Quantity Field"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:416
+msgid "Below Quantity Field"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:433
+msgid "Product Add to Cart Button Background"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:449
+msgid "Product Add to Cart Button Typography"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:473
+msgid "Product More Info Button"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:476
+msgid "Show"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:477
+msgid "Hide"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:493
+msgid "Product More Info Button Background"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-info.php:509
+msgid "Product More Info Button Typography"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:8
+msgid "Slider Width (Desktop)"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:38
+msgid "Slider Height (Desktop)"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:68
+msgid "Slider Width (Tablet / Mobile)"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:98
+msgid "Slider Height (Tablet / Mobile)"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:128
+msgid "Slider Animation"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:131
+msgid "Slide"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:132
+msgid "Fade"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:141
+msgid "Slider Auto Play"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:144
+#: includes/xirki/example.php:862
+#: xt-framework/includes/class-system-status.php:225
+#: xt-framework/includes/customizer/xirki/example.php:862
+msgid "Disabled"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:145
+#: includes/xirki/example.php:861
+#: xt-framework/includes/class-system-status.php:225
+#: xt-framework/includes/customizer/xirki/example.php:861
+#: xt-framework/includes/license/includes/class-license.php:495
+msgid "Enabled"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:154
+msgid "Slider Grayscale Transition"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:167
+msgid "Slider LightBox"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:181
+msgid "Slider Arrows"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:194
+msgid "Slider Arrows Icon"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:223
+msgid "Slider Arrows Size"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:252
+msgid "Slider Arrows Icon Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:275
+msgid "Slider Arrows Icon Hover Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:299
+msgid "Slider Thumb Gallery"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:312
+msgid "Slider Thumb Gallery Visible on Hover only"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:315
+#: admin/customizer/fields/modal-trigger.php:101
+#: admin/customizer/fields/modal-trigger.php:159
+#: admin/customizer/fields/modal-trigger.php:359
+msgid "No"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:316
+#: admin/customizer/fields/modal-trigger.php:100
+#: admin/customizer/fields/modal-trigger.php:158
+#: admin/customizer/fields/modal-trigger.php:251
+#: admin/customizer/fields/modal-trigger.php:358
+msgid "Yes"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:332
+msgid "Slider Gallery Visible Thumbs"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:353
+msgid "Slider Gallery Active Thumb Border Width"
+msgstr ""
+
+#: admin/customizer/fields/modal-product-slider.php:382
+msgid "Slider Gallery Active Thumb Border Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:8
+msgid "Quick View Button Position"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:13
+msgid "Before Add to cart button"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:14
+msgid "Above add to cart button"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:15
+msgid "After add to cart button"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:16
+msgid "Below add to cart button"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:17
+msgid "Over product container on Hover"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:18
+msgid "Over product image on Hover"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:19
+msgid "Via shortcode only"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:28
+msgid "Note"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:44
+msgid "Trigger via shortcode"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:45
+msgid "[xt_wooqv_trigger id=\"PRODUCT_ID\"]"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:53
+msgid "Trigger Extra Classes"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:68
+msgid "Quick View Button Radius"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:97
+msgid "Add overlay behind the trigger"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:117
+msgid "Overlay color behind the trigger"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:155
+msgid "Force the Add To Cart button to be Fullwidth as well?"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:195
+msgid "Quick View Button Text align"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:198
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:131
+#: includes/xirki/controls/php/class-xirki-control-typography.php:145
+#: includes/xirki/field/class-xirki-field-spacing.php:34
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:131
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:145
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-spacing.php:34
+msgid "Left"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:199
+#: admin/customizer/fields/modal-trigger.php:252
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:133
+#: includes/xirki/controls/php/class-xirki-control-typography.php:151
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:133
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:151
+msgid "Center"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:200
+#: admin/customizer/fields/modal-trigger.php:253
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:132
+#: includes/xirki/controls/php/class-xirki-control-typography.php:157
+#: includes/xirki/field/class-xirki-field-spacing.php:35
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:132
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:157
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-spacing.php:35
+msgid "Right"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:225
+msgid "Override Quick View Button Padding"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:248
+msgid "Add To Cart Button Text align"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:277
+msgid "Override Add To Cart Button Padding"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:293
+msgid "Quick View Button Icon Type"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:296
+msgid "No Icon"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:297
+msgid "Font Icon"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:298
+msgid "Image / SVG"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:307
+msgid "Quick View Button Icon"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:332
+msgid "Quick View Button Icon Image"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:355
+msgid "Quick View Button Show Icon Only"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:376
+msgid "Quick View Button Icon Size"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:421
+msgid "Quick View Button Bg Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:441
+msgid "Quick View Button Text Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:461
+msgid "Quick View Button Hover Bg Color"
+msgstr ""
+
+#: admin/customizer/fields/modal-trigger.php:481
+msgid "Quick View Button Hover Text Color"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:48
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:48
+msgid "Background Color"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:54
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:54
+msgid "Background Image"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:59
+#: includes/xirki/controls/php/class-xirki-control-base.php:132
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:408
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:413
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:59
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-base.php:132
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:408
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:62
+#: includes/xirki/controls/php/class-xirki-control-base.php:133
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:386
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:418
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:443
+#: includes/xirki/controls/views/image.php:37
+#: includes/xirki/field/class-xirki-field-image.php:50
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:62
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-base.php:133
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:386
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:418
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:443
+#: xt-framework/includes/customizer/xirki/controls/views/image.php:37
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-image.php:50
+msgid "Remove"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:63
+#: includes/xirki/controls/php/class-xirki-control-base.php:135
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:63
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-base.php:135
+msgid "Select File"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:70
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:70
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:72
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:72
+msgid "No Repeat"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:73
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:73
+msgid "Repeat All"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:74
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:75
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:81
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:81
+msgid "Background Position"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:83
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:114
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:83
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:84
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:115
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:84
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:85
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:116
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:85
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:86
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:117
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:86
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:87
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:118
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:87
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:88
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:119
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:88
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:89
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:120
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:89
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:90
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:121
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:90
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:91
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:122
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:91
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:97
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:97
+msgid "Background Size"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:100
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:100
+msgid "Cover"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:103
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:103
+msgid "Contain"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:106
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:106
+msgid "Auto"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:113
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:113
+msgid "Background Attachment"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:116
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:116
+msgid "Scroll"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-background.php:119
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-background.php:119
+msgid "Fixed"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-base.php:134
+#: includes/xirki/controls/views/image.php:36
+#: includes/xirki/field/class-xirki-field-image.php:49
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-base.php:134
+#: xt-framework/includes/customizer/xirki/controls/views/image.php:36
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-image.php:49
+msgid "Default"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-base.php:136
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-base.php:137
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-base.php:137
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-base.php:138
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-base.php:139
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimension.php:41
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:138
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimension.php:41
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:123
+#: includes/xirki/controls/php/class-xirki-control-typography.php:102
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:123
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:102
+msgid "Font Size"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:124
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:125
+#: includes/xirki/controls/php/class-xirki-control-typography.php:110
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:125
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:110
+msgid "Line Height"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:126
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:127
+#: includes/xirki/controls/php/class-xirki-control-typography.php:118
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:127
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:128
+#: includes/xirki/controls/php/class-xirki-control-typography.php:126
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:128
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:129
+#: includes/xirki/field/class-xirki-field-spacing.php:32
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:129
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-spacing.php:32
+msgid "Top"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:130
+#: includes/xirki/field/class-xirki-field-spacing.php:33
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:130
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-spacing.php:33
+msgid "Bottom"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:134
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:134
+msgid "Size"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:135
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:136
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:136
+msgid "Width"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-dimensions.php:137
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-dimensions.php:137
+msgid "Height"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:77
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:77
+msgid "row"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:86
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:86
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:121
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:227
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:227
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:376
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:381
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:376
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:387
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:391
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:387
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:391
+msgid "Add Image"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:387
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:389
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:387
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:389
+msgid "Change Image"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:419
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:423
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:419
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:423
+msgid "Add File"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:419
+#: includes/xirki/controls/php/class-xirki-control-repeater.php:421
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:419
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-repeater.php:421
+msgid "Change File"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-slider.php:67
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-slider.php:67
+msgid "Reset"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-switch.php:52
+#: includes/xirki/field/class-xirki-field-switch.php:39
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-switch.php:52
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-switch.php:39
+msgid "On"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-switch.php:56
+#: includes/xirki/field/class-xirki-field-switch.php:40
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-switch.php:56
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-switch.php:40
+msgid "Off"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:82
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:82
+msgid "Font Family"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:83
+#: includes/xirki/controls/php/class-xirki-control-typography.php:88
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:83
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:87
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:87
+msgid "Backup Font"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:93
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:93
+msgid "Variant"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:134
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:134
+msgid "Text Align"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:139
+#: includes/xirki/controls/php/class-xirki-control-typography.php:181
+#: includes/xirki/controls/php/class-xirki-control-typography.php:197
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:139
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:181
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:197
+msgid "Inherit"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:163
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:163
+msgid "Justify"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:173
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:173
+msgid "Text Transform"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:176
+#: includes/xirki/controls/php/class-xirki-control-typography.php:192
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:176
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:192
+msgid "None"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:177
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:177
+msgid "Capitalize"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:178
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:178
+msgid "Uppercase"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:179
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:179
+msgid "Lowercase"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:180
+#: includes/xirki/controls/php/class-xirki-control-typography.php:196
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:180
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:196
+msgid "Initial"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:189
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:193
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:193
+msgid "Underline"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:194
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:194
+msgid "Overline"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:195
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:195
+msgid "Line-Through"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:205
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:205
+msgid "Margin Top"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:213
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr ""
+
+#: includes/xirki/controls/php/class-xirki-control-typography.php:221
+#: includes/xirki/example.php:62 includes/xirki/example.php:591
+#: xt-framework/includes/customizer/xirki/controls/php/class-xirki-control-typography.php:221
+#: xt-framework/includes/customizer/xirki/example.php:62
+#: xt-framework/includes/customizer/xirki/example.php:591
+msgid "Color"
+msgstr ""
+
+#: includes/xirki/controls/views/image.php:34
+#: includes/xirki/controls/views/image.php:39
+#: includes/xirki/field/class-xirki-field-image.php:47
+#: includes/xirki/field/class-xirki-field-image.php:52
+#: xt-framework/includes/customizer/xirki/controls/views/image.php:34
+#: xt-framework/includes/customizer/xirki/controls/views/image.php:39
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-image.php:47
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-image.php:52
+msgid "Select image"
+msgstr ""
+
+#: includes/xirki/controls/views/image.php:35
+#: includes/xirki/field/class-xirki-field-image.php:48
+#: xt-framework/includes/customizer/xirki/controls/views/image.php:35
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-image.php:48
+msgid "Change image"
+msgstr ""
+
+#: includes/xirki/controls/views/image.php:38
+#: includes/xirki/field/class-xirki-field-image.php:51
+#: xt-framework/includes/customizer/xirki/controls/views/image.php:38
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-image.php:51
+msgid "No image selected"
+msgstr ""
+
+#: includes/xirki/controls/views/image.php:40
+#: includes/xirki/field/class-xirki-field-image.php:53
+#: xt-framework/includes/customizer/xirki/controls/views/image.php:40
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-image.php:53
+msgid "Choose image"
+msgstr ""
+
+#: includes/xirki/core/class-xirki-field.php:248
+#: xt-framework/includes/customizer/xirki/core/class-xirki-field.php:248
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#: includes/xirki/core/class-xirki-field.php:257
+#: includes/xirki/core/class-xirki-field.php:267
+#: xt-framework/includes/customizer/xirki/core/class-xirki-field.php:257
+#: xt-framework/includes/customizer/xirki/core/class-xirki-field.php:267
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#: includes/xirki/core/class-xirki-field.php:375
+#: xt-framework/includes/customizer/xirki/core/class-xirki-field.php:375
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#: includes/xirki/core/class-xirki-field.php:498
+#: includes/xirki/core/class-xirki-field.php:509
+#: xt-framework/includes/customizer/xirki/core/class-xirki-field.php:498
+#: xt-framework/includes/customizer/xirki/core/class-xirki-field.php:509
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: includes/xirki/core/class-xirki-init.php:289
+#: xt-framework/includes/customizer/xirki/core/class-xirki-init.php:289
+msgid ""
+"We detected you're using Xirki_Init::get_variables(). Please use Xirki_Util::"
+"get_variables() instead."
+msgstr ""
+
+#: includes/xirki/core/class-xirki-init.php:365
+#: xt-framework/includes/customizer/xirki/core/class-xirki-init.php:365
+msgid ""
+"Your theme uses a Font Awesome field for icons. To avoid issues with missing "
+"icons on your frontend we recommend you install the official Font Awesome "
+"plugin."
+msgstr ""
+
+#: includes/xirki/core/class-xirki-init.php:368
+#: xt-framework/includes/customizer/xirki/core/class-xirki-init.php:368
+msgid "Install Plugin"
+msgstr ""
+
+#: includes/xirki/core/class-xirki-init.php:369
+#: xt-framework/includes/customizer/xirki/core/class-xirki-init.php:369
+msgid "Don't show this again"
+msgstr ""
+
+#: includes/xirki/core/class-xirki.php:237
+#: xt-framework/includes/customizer/xirki/core/class-xirki.php:237
+msgid ""
+"Xirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: includes/xirki/deprecated/functions.php:19
+#: xt-framework/includes/customizer/xirki/deprecated/functions.php:19
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: includes/xirki/example.php:45
+#: xt-framework/includes/customizer/xirki/example.php:45
+msgid "Xirki Demo Panel"
+msgstr ""
+
+#: includes/xirki/example.php:46
+#: xt-framework/includes/customizer/xirki/example.php:46
+msgid "Contains sections for all xirki controls."
+msgstr ""
+
+#: includes/xirki/example.php:59
+#: xt-framework/includes/customizer/xirki/example.php:59
+msgid "Background"
+msgstr ""
+
+#: includes/xirki/example.php:60
+#: xt-framework/includes/customizer/xirki/example.php:60
+msgid "Code"
+msgstr ""
+
+#: includes/xirki/example.php:61 includes/xirki/example.php:749
+#: xt-framework/includes/customizer/xirki/example.php:61
+#: xt-framework/includes/customizer/xirki/example.php:749
+msgid "Checkbox"
+msgstr ""
+
+#: includes/xirki/example.php:63
+#: xt-framework/includes/customizer/xirki/example.php:63
+msgid "Color Palette"
+msgstr ""
+
+#: includes/xirki/example.php:64
+#: xt-framework/includes/customizer/xirki/example.php:64
+msgid "Custom"
+msgstr ""
+
+#: includes/xirki/example.php:65
+#: xt-framework/includes/customizer/xirki/example.php:65
+msgid "Dashicons"
+msgstr ""
+
+#: includes/xirki/example.php:66
+#: xt-framework/includes/customizer/xirki/example.php:66
+msgid "Date"
+msgstr ""
+
+#: includes/xirki/example.php:67
+#: xt-framework/includes/customizer/xirki/example.php:67
+msgid "Dimension"
+msgstr ""
+
+#: includes/xirki/example.php:68
+#: xt-framework/includes/customizer/xirki/example.php:68
+msgid "Dimensions"
+msgstr ""
+
+#: includes/xirki/example.php:69
+#: xt-framework/includes/customizer/xirki/example.php:69
+msgid "Dropdown Pages"
+msgstr ""
+
+#: includes/xirki/example.php:70
+#: xt-framework/includes/customizer/xirki/example.php:70
+msgid "Editor"
+msgstr ""
+
+#: includes/xirki/example.php:71
+#: xt-framework/includes/customizer/xirki/example.php:71
+msgid "Font-Awesome"
+msgstr ""
+
+#: includes/xirki/example.php:72
+#: xt-framework/includes/customizer/xirki/example.php:72
+msgid "Generic"
+msgstr ""
+
+#: includes/xirki/example.php:73
+#: xt-framework/includes/customizer/xirki/example.php:73
+msgid "Image"
+msgstr ""
+
+#: includes/xirki/example.php:74
+#: xt-framework/includes/customizer/xirki/example.php:74
+msgid "Multicheck"
+msgstr ""
+
+#: includes/xirki/example.php:75
+#: xt-framework/includes/customizer/xirki/example.php:75
+msgid "Multicolor"
+msgstr ""
+
+#: includes/xirki/example.php:76
+#: xt-framework/includes/customizer/xirki/example.php:76
+msgid "Number"
+msgstr ""
+
+#: includes/xirki/example.php:77
+#: xt-framework/includes/customizer/xirki/example.php:77
+msgid "Palette"
+msgstr ""
+
+#: includes/xirki/example.php:78
+#: xt-framework/includes/customizer/xirki/example.php:78
+msgid "Preset"
+msgstr ""
+
+#: includes/xirki/example.php:79
+#: xt-framework/includes/customizer/xirki/example.php:79
+msgid "Radio"
+msgstr ""
+
+#: includes/xirki/example.php:79
+#: xt-framework/includes/customizer/xirki/example.php:79
+msgid "A plain Radio control."
+msgstr ""
+
+#: includes/xirki/example.php:80
+#: xt-framework/includes/customizer/xirki/example.php:80
+msgid "Radio Buttonset"
+msgstr ""
+
+#: includes/xirki/example.php:80
+#: xt-framework/includes/customizer/xirki/example.php:80
+msgid ""
+"Radio-Buttonset controls are essentially radio controls with some fancy "
+"styling to make them look cooler."
+msgstr ""
+
+#: includes/xirki/example.php:81
+#: xt-framework/includes/customizer/xirki/example.php:81
+msgid "Radio Image"
+msgstr ""
+
+#: includes/xirki/example.php:81
+#: xt-framework/includes/customizer/xirki/example.php:81
+msgid ""
+"Radio-Image controls are essentially radio controls with some fancy styles "
+"to use images"
+msgstr ""
+
+#: includes/xirki/example.php:82
+#: xt-framework/includes/customizer/xirki/example.php:82
+msgid "Repeater"
+msgstr ""
+
+#: includes/xirki/example.php:83
+#: xt-framework/includes/customizer/xirki/example.php:83
+msgid "Select"
+msgstr ""
+
+#: includes/xirki/example.php:84
+#: xt-framework/includes/customizer/xirki/example.php:84
+msgid "Slider"
+msgstr ""
+
+#: includes/xirki/example.php:85
+#: xt-framework/includes/customizer/xirki/example.php:85
+msgid "Sortable"
+msgstr ""
+
+#: includes/xirki/example.php:86
+#: xt-framework/includes/customizer/xirki/example.php:86
+msgid "Switch"
+msgstr ""
+
+#: includes/xirki/example.php:87
+#: xt-framework/includes/customizer/xirki/example.php:87
+msgid "Toggle"
+msgstr ""
+
+#: includes/xirki/example.php:88
+#: xt-framework/includes/customizer/xirki/example.php:88
+msgid "Typography"
+msgstr ""
+
+#: includes/xirki/example.php:105
+#: xt-framework/includes/customizer/xirki/example.php:105
+msgid "Test Link Section"
+msgstr ""
+
+#: includes/xirki/example.php:107
+#: xt-framework/includes/customizer/xirki/example.php:107
+msgid "Pro"
+msgstr ""
+
+#: includes/xirki/example.php:130
+#: xt-framework/includes/customizer/xirki/example.php:130
+msgid "Background Control"
+msgstr ""
+
+#: includes/xirki/example.php:131
+#: xt-framework/includes/customizer/xirki/example.php:131
+msgid "Background conrols are pretty complex! (but useful if properly used)"
+msgstr ""
+
+#: includes/xirki/example.php:153
+#: xt-framework/includes/customizer/xirki/example.php:153
+msgid "Code Control"
+msgstr ""
+
+#: includes/xirki/example.php:154 includes/xirki/example.php:173
+#: includes/xirki/example.php:483 includes/xirki/example.php:494
+#: includes/xirki/example.php:846 includes/xirki/example.php:857
+#: includes/xirki/example.php:882
+#: xt-framework/includes/customizer/xirki/example.php:154
+#: xt-framework/includes/customizer/xirki/example.php:173
+#: xt-framework/includes/customizer/xirki/example.php:483
+#: xt-framework/includes/customizer/xirki/example.php:494
+#: xt-framework/includes/customizer/xirki/example.php:846
+#: xt-framework/includes/customizer/xirki/example.php:857
+#: xt-framework/includes/customizer/xirki/example.php:882
+msgid "Description"
+msgstr ""
+
+#: includes/xirki/example.php:172
+#: xt-framework/includes/customizer/xirki/example.php:172
+msgid "Checkbox Control"
+msgstr ""
+
+#: includes/xirki/example.php:188
+#: xt-framework/includes/customizer/xirki/example.php:188
+msgid "Color Control (hex-only)"
+msgstr ""
+
+#: includes/xirki/example.php:189
+#: xt-framework/includes/customizer/xirki/example.php:189
+msgid "This is a color control - without alpha channel."
+msgstr ""
+
+#: includes/xirki/example.php:199
+#: xt-framework/includes/customizer/xirki/example.php:199
+msgid "Color Control (with alpha channel)"
+msgstr ""
+
+#: includes/xirki/example.php:200
+#: xt-framework/includes/customizer/xirki/example.php:200
+msgid "This is a color control - with alpha channel."
+msgstr ""
+
+#: includes/xirki/example.php:213
+#: xt-framework/includes/customizer/xirki/example.php:213
+msgid "Color Control - hue only."
+msgstr ""
+
+#: includes/xirki/example.php:214
+#: xt-framework/includes/customizer/xirki/example.php:214
+msgid "This is a color control - hue only."
+msgstr ""
+
+#: includes/xirki/example.php:228
+#: xt-framework/includes/customizer/xirki/example.php:228
+msgid "Date Control"
+msgstr ""
+
+#: includes/xirki/example.php:229
+#: xt-framework/includes/customizer/xirki/example.php:229
+msgid "This is a date control."
+msgstr ""
+
+#: includes/xirki/example.php:242
+#: xt-framework/includes/customizer/xirki/example.php:242
+msgid "First Editor Control"
+msgstr ""
+
+#: includes/xirki/example.php:243
+#: xt-framework/includes/customizer/xirki/example.php:243
+msgid "This is an editor control."
+msgstr ""
+
+#: includes/xirki/example.php:253
+#: xt-framework/includes/customizer/xirki/example.php:253
+msgid "Second Editor Control"
+msgstr ""
+
+#: includes/xirki/example.php:254
+#: xt-framework/includes/customizer/xirki/example.php:254
+msgid ""
+"This is a 2nd editor control just to check that we do not have issues with "
+"multiple instances."
+msgstr ""
+
+#: includes/xirki/example.php:256
+#: xt-framework/includes/customizer/xirki/example.php:256
+msgid "Default Text"
+msgstr ""
+
+#: includes/xirki/example.php:269 includes/xirki/example.php:284
+#: includes/xirki/example.php:299 includes/xirki/example.php:314
+#: includes/xirki/example.php:329
+#: xt-framework/includes/customizer/xirki/example.php:269
+#: xt-framework/includes/customizer/xirki/example.php:284
+#: xt-framework/includes/customizer/xirki/example.php:299
+#: xt-framework/includes/customizer/xirki/example.php:314
+#: xt-framework/includes/customizer/xirki/example.php:329
+msgid "Color-Palette"
+msgstr ""
+
+#: includes/xirki/example.php:270
+#: xt-framework/includes/customizer/xirki/example.php:270
+msgid "This is a color-palette control"
+msgstr ""
+
+#: includes/xirki/example.php:285
+#: xt-framework/includes/customizer/xirki/example.php:285
+msgid "Material Design Colors - all"
+msgstr ""
+
+#: includes/xirki/example.php:300
+#: xt-framework/includes/customizer/xirki/example.php:300
+msgid "Material Design Colors - primary"
+msgstr ""
+
+#: includes/xirki/example.php:315
+#: xt-framework/includes/customizer/xirki/example.php:315
+msgid "Material Design Colors - red"
+msgstr ""
+
+#: includes/xirki/example.php:330
+#: xt-framework/includes/customizer/xirki/example.php:330
+msgid "Material Design Colors - A100"
+msgstr ""
+
+#: includes/xirki/example.php:350
+#: xt-framework/includes/customizer/xirki/example.php:350
+msgid "Dashicons Control"
+msgstr ""
+
+#: includes/xirki/example.php:351
+#: xt-framework/includes/customizer/xirki/example.php:351
+msgid "Using a custom array of dashicons"
+msgstr ""
+
+#: includes/xirki/example.php:370
+#: xt-framework/includes/customizer/xirki/example.php:370
+msgid "All Dashicons"
+msgstr ""
+
+#: includes/xirki/example.php:371
+#: xt-framework/includes/customizer/xirki/example.php:371
+msgid "Showing all dashicons"
+msgstr ""
+
+#: includes/xirki/example.php:384 includes/xirki/example.php:401
+#: includes/xirki/example.php:415 includes/xirki/example.php:450
+#: xt-framework/includes/customizer/xirki/example.php:384
+#: xt-framework/includes/customizer/xirki/example.php:401
+#: xt-framework/includes/customizer/xirki/example.php:415
+#: xt-framework/includes/customizer/xirki/example.php:450
+msgid "Dimension Control"
+msgstr ""
+
+#: includes/xirki/example.php:385 includes/xirki/example.php:402
+#: includes/xirki/example.php:416 includes/xirki/example.php:432
+#: includes/xirki/example.php:451 includes/xirki/example.php:469
+#: includes/xirki/example.php:525 includes/xirki/example.php:536
+#: includes/xirki/example.php:550
+#: xt-framework/includes/customizer/xirki/example.php:385
+#: xt-framework/includes/customizer/xirki/example.php:402
+#: xt-framework/includes/customizer/xirki/example.php:416
+#: xt-framework/includes/customizer/xirki/example.php:432
+#: xt-framework/includes/customizer/xirki/example.php:451
+#: xt-framework/includes/customizer/xirki/example.php:469
+#: xt-framework/includes/customizer/xirki/example.php:525
+#: xt-framework/includes/customizer/xirki/example.php:536
+#: xt-framework/includes/customizer/xirki/example.php:550
+msgid "Description Here."
+msgstr ""
+
+#: includes/xirki/example.php:431
+#: xt-framework/includes/customizer/xirki/example.php:431
+msgid "Spacing Control"
+msgstr ""
+
+#: includes/xirki/example.php:468
+#: xt-framework/includes/customizer/xirki/example.php:468
+msgid "Font Awesome Control"
+msgstr ""
+
+#: includes/xirki/example.php:482
+#: xt-framework/includes/customizer/xirki/example.php:482
+msgid "Text Control"
+msgstr ""
+
+#: includes/xirki/example.php:493
+#: xt-framework/includes/customizer/xirki/example.php:493
+msgid "Textarea Control"
+msgstr ""
+
+#: includes/xirki/example.php:504
+#: xt-framework/includes/customizer/xirki/example.php:504
+msgid "Custom input Control."
+msgstr ""
+
+#: includes/xirki/example.php:505
+#: xt-framework/includes/customizer/xirki/example.php:505
+msgid ""
+"The \"generic\" control allows you to add any input type you want. In this "
+"case we use type=\"password\" and define custom styles."
+msgstr ""
+
+#: includes/xirki/example.php:524
+#: xt-framework/includes/customizer/xirki/example.php:524
+msgid "Image Control (URL)"
+msgstr ""
+
+#: includes/xirki/example.php:535
+#: xt-framework/includes/customizer/xirki/example.php:535
+msgid "Image Control (ID)"
+msgstr ""
+
+#: includes/xirki/example.php:549
+#: xt-framework/includes/customizer/xirki/example.php:549
+msgid "Image Control (array)"
+msgstr ""
+
+#: includes/xirki/example.php:566
+#: xt-framework/includes/customizer/xirki/example.php:566
+msgid "Multickeck Control"
+msgstr ""
+
+#: includes/xirki/example.php:571 includes/xirki/example.php:653
+#: includes/xirki/example.php:674 includes/xirki/example.php:769
+#: includes/xirki/example.php:788 includes/xirki/example.php:828
+#: xt-framework/includes/customizer/xirki/example.php:571
+#: xt-framework/includes/customizer/xirki/example.php:653
+#: xt-framework/includes/customizer/xirki/example.php:674
+#: xt-framework/includes/customizer/xirki/example.php:769
+#: xt-framework/includes/customizer/xirki/example.php:788
+#: xt-framework/includes/customizer/xirki/example.php:828
+msgid "Option 1"
+msgstr ""
+
+#: includes/xirki/example.php:572 includes/xirki/example.php:654
+#: includes/xirki/example.php:675 includes/xirki/example.php:770
+#: includes/xirki/example.php:789 includes/xirki/example.php:829
+#: xt-framework/includes/customizer/xirki/example.php:572
+#: xt-framework/includes/customizer/xirki/example.php:654
+#: xt-framework/includes/customizer/xirki/example.php:675
+#: xt-framework/includes/customizer/xirki/example.php:770
+#: xt-framework/includes/customizer/xirki/example.php:789
+#: xt-framework/includes/customizer/xirki/example.php:829
+msgid "Option 2"
+msgstr ""
+
+#: includes/xirki/example.php:573 includes/xirki/example.php:655
+#: includes/xirki/example.php:676 includes/xirki/example.php:771
+#: includes/xirki/example.php:790 includes/xirki/example.php:830
+#: xt-framework/includes/customizer/xirki/example.php:573
+#: xt-framework/includes/customizer/xirki/example.php:655
+#: xt-framework/includes/customizer/xirki/example.php:676
+#: xt-framework/includes/customizer/xirki/example.php:771
+#: xt-framework/includes/customizer/xirki/example.php:790
+#: xt-framework/includes/customizer/xirki/example.php:830
+msgid "Option 3"
+msgstr ""
+
+#: includes/xirki/example.php:574 includes/xirki/example.php:656
+#: includes/xirki/example.php:772 includes/xirki/example.php:791
+#: includes/xirki/example.php:831
+#: xt-framework/includes/customizer/xirki/example.php:574
+#: xt-framework/includes/customizer/xirki/example.php:656
+#: xt-framework/includes/customizer/xirki/example.php:772
+#: xt-framework/includes/customizer/xirki/example.php:791
+#: xt-framework/includes/customizer/xirki/example.php:831
+msgid "Option 4"
+msgstr ""
+
+#: includes/xirki/example.php:575 includes/xirki/example.php:657
+#: includes/xirki/example.php:773 includes/xirki/example.php:792
+#: includes/xirki/example.php:832
+#: xt-framework/includes/customizer/xirki/example.php:575
+#: xt-framework/includes/customizer/xirki/example.php:657
+#: xt-framework/includes/customizer/xirki/example.php:773
+#: xt-framework/includes/customizer/xirki/example.php:792
+#: xt-framework/includes/customizer/xirki/example.php:832
+msgid "Option 5"
+msgstr ""
+
+#: includes/xirki/example.php:587 includes/xirki/example.php:611
+#: includes/xirki/example.php:629
+#: xt-framework/includes/customizer/xirki/example.php:587
+#: xt-framework/includes/customizer/xirki/example.php:611
+#: xt-framework/includes/customizer/xirki/example.php:629
+msgid "Label"
+msgstr ""
+
+#: includes/xirki/example.php:592
+#: xt-framework/includes/customizer/xirki/example.php:592
+msgid "Hover"
+msgstr ""
+
+#: includes/xirki/example.php:593
+#: xt-framework/includes/customizer/xirki/example.php:593
+msgid "Active"
+msgstr ""
+
+#: includes/xirki/example.php:648
+#: xt-framework/includes/customizer/xirki/example.php:648
+msgid "Radio Control"
+msgstr ""
+
+#: includes/xirki/example.php:649 includes/xirki/example.php:670
+#: includes/xirki/example.php:689 includes/xirki/example.php:708
+#: includes/xirki/example.php:764 includes/xirki/example.php:783
+#: includes/xirki/example.php:805
+#: xt-framework/includes/customizer/xirki/example.php:649
+#: xt-framework/includes/customizer/xirki/example.php:670
+#: xt-framework/includes/customizer/xirki/example.php:689
+#: xt-framework/includes/customizer/xirki/example.php:708
+#: xt-framework/includes/customizer/xirki/example.php:764
+#: xt-framework/includes/customizer/xirki/example.php:783
+#: xt-framework/includes/customizer/xirki/example.php:805
+msgid "The description here."
+msgstr ""
+
+#: includes/xirki/example.php:669
+#: xt-framework/includes/customizer/xirki/example.php:669
+msgid "Radio-Buttonset Control"
+msgstr ""
+
+#: includes/xirki/example.php:688
+#: xt-framework/includes/customizer/xirki/example.php:688
+msgid "Radio-Image Control"
+msgstr ""
+
+#: includes/xirki/example.php:707
+#: xt-framework/includes/customizer/xirki/example.php:707
+msgid "Repeater Control"
+msgstr ""
+
+#: includes/xirki/example.php:712
+#: xt-framework/includes/customizer/xirki/example.php:712
+msgid "Xirki Site"
+msgstr ""
+
+#: includes/xirki/example.php:718
+#: xt-framework/includes/customizer/xirki/example.php:718
+msgid "Xirki Repository"
+msgstr ""
+
+#: includes/xirki/example.php:727
+#: xt-framework/includes/customizer/xirki/example.php:727
+msgid "Link Text"
+msgstr ""
+
+#: includes/xirki/example.php:728
+#: xt-framework/includes/customizer/xirki/example.php:728
+msgid "This will be the label for your link"
+msgstr ""
+
+#: includes/xirki/example.php:733
+#: xt-framework/includes/customizer/xirki/example.php:733
+msgid "Link URL"
+msgstr ""
+
+#: includes/xirki/example.php:734
+#: xt-framework/includes/customizer/xirki/example.php:734
+msgid "This will be the link URL"
+msgstr ""
+
+#: includes/xirki/example.php:739
+#: xt-framework/includes/customizer/xirki/example.php:739
+msgid "Link Target"
+msgstr ""
+
+#: includes/xirki/example.php:740
+#: xt-framework/includes/customizer/xirki/example.php:740
+msgid "This will be the link target"
+msgstr ""
+
+#: includes/xirki/example.php:743
+#: xt-framework/includes/customizer/xirki/example.php:743
+msgid "New Window"
+msgstr ""
+
+#: includes/xirki/example.php:744
+#: xt-framework/includes/customizer/xirki/example.php:744
+msgid "Same Frame"
+msgstr ""
+
+#: includes/xirki/example.php:763 includes/xirki/example.php:782
+#: xt-framework/includes/customizer/xirki/example.php:763
+#: xt-framework/includes/customizer/xirki/example.php:782
+msgid "Select Control"
+msgstr ""
+
+#: includes/xirki/example.php:767
+#: xt-framework/includes/customizer/xirki/example.php:767
+msgid "Select an option"
+msgstr ""
+
+#: includes/xirki/example.php:804
+#: xt-framework/includes/customizer/xirki/example.php:804
+msgid "Slider Control"
+msgstr ""
+
+#: includes/xirki/example.php:824
+#: xt-framework/includes/customizer/xirki/example.php:824
+msgid "This is a sortable control."
+msgstr ""
+
+#: includes/xirki/example.php:833
+#: xt-framework/includes/customizer/xirki/example.php:833
+msgid "Option 6"
+msgstr ""
+
+#: includes/xirki/example.php:845
+#: xt-framework/includes/customizer/xirki/example.php:845
+msgid "Switch Control"
+msgstr ""
+
+#: includes/xirki/example.php:856
+#: xt-framework/includes/customizer/xirki/example.php:856
+msgid "Switch Control with custom labels"
+msgstr ""
+
+#: includes/xirki/example.php:881
+#: xt-framework/includes/customizer/xirki/example.php:881
+msgid "Toggle Control"
+msgstr ""
+
+#: includes/xirki/example.php:906 includes/xirki/example.php:960
+#: xt-framework/includes/customizer/xirki/example.php:906
+#: xt-framework/includes/customizer/xirki/example.php:960
+msgid "Typography Control Label"
+msgstr ""
+
+#: includes/xirki/example.php:907 includes/xirki/example.php:961
+#: xt-framework/includes/customizer/xirki/example.php:907
+#: xt-framework/includes/customizer/xirki/example.php:961
+msgid "The full set of options."
+msgstr ""
+
+#: includes/xirki/example.php:998
+#: xt-framework/includes/customizer/xirki/example.php:998
+msgid "Sidebars Select"
+msgstr ""
+
+#: includes/xirki/example.php:999
+#: xt-framework/includes/customizer/xirki/example.php:999
+msgid "An example of how to implement sidebars selection."
+msgstr ""
+
+#: includes/xirki/field/class-xirki-field-color.php:52
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-color.php:52
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use "
+"\"choices[alpha]\" instead."
+msgstr ""
+
+#: includes/xirki/field/class-xirki-field-radio.php:37
+#: xt-framework/includes/customizer/xirki/field/class-xirki-field-radio.php:37
+#, php-format
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Xirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: includes/xirki/modules/custom-sections/sections/class-xirki-sections-nested-section.php:61
+#: xt-framework/includes/customizer/xirki/modules/custom-sections/sections/class-xirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr ""
+
+#: includes/xirki/modules/custom-sections/sections/class-xirki-sections-nested-section.php:64
+#: xt-framework/includes/customizer/xirki/modules/custom-sections/sections/class-xirki-sections-nested-section.php:64
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:146
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:146
+msgid "Help us improve Xirki."
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:147
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:147
+msgid ""
+"Help us begin a dialogue with theme developers, collaborate and improve both "
+"the theme you are using and the Xirki framework by agreeing to send "
+"anonymous data. <strong>The data is completely anonymous and we will never "
+"collect any identifyable information about you or your website.</strong>"
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:151
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:151
+msgid "Data that will be sent"
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:156
+#: xt-framework/includes/class-system-status.php:70
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:156
+msgid "PHP Version"
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:160
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:160
+msgid "Theme Name"
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:164
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:164
+msgid "Theme Author"
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:168
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:168
+msgid "Theme URI"
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:172
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:172
+msgid "Field Types Used"
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:182
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:182
+#, php-format
+msgid ""
+"We believe in complete transparency. You can see the code used on our server "
+"<a href=\"%1$s\" rel=\"nofollow\">here</a>, and the results of the "
+"statistics we're gathering on <a href=\"%2$s\" rel=\"nofollow\">this page</"
+"a>."
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:193
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:193
+msgid "I agree"
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:194
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:194
+msgid "No thanks"
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:195
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:195
+msgid "Show me the data"
+msgstr ""
+
+#: includes/xirki/modules/telemetry/class-xirki-modules-telemetry.php:196
+#: xt-framework/includes/customizer/xirki/modules/telemetry/class-xirki-modules-telemetry.php:196
+msgid "Collapse data"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:198
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:199
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:198
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:199
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:200
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:200
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:201
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:201
+msgid "Light 200"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:202
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:202
+msgid "Light 200 Italic"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:203
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:203
+msgid "Book 300"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:204
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:204
+msgid "Book 300 Italic"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:205
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:206
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:205
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:206
+msgid "Normal 400"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:207
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:207
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:208
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:208
+msgid "Medium 500"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:209
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:209
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:210
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:211
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:210
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:211
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:212
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:212
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:213
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:213
+msgid "Bold 700"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:214
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:214
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:215
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:216
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:215
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:216
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:217
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:217
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:218
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:219
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:218
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:219
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: includes/xirki/modules/webfonts/class-xirki-fonts.php:220
+#: xt-framework/includes/customizer/xirki/modules/webfonts/class-xirki-fonts.php:220
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: includes/xirki/upgrade-notifications.php:30
+#: xt-framework/includes/customizer/xirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: public/class-public.php:398
+msgid "Quick View"
+msgstr ""
+
+#: public/class-public.php:418
+msgid "More info"
+msgstr ""
+
+#: public/functions-global.php:268
+msgid "Loading..."
+msgstr ""
+
+#: public/templates/parts/product-slider.php:97
+msgid "Placeholder"
+msgstr ""
+
+#: xt-framework/includes/admin-tabs/class-framework-tabs.php:65
+msgid "Browse Plugins"
+msgstr ""
+
+#: xt-framework/includes/admin-tabs/class-framework-tabs.php:77
+msgid "XplodedThemes.com"
+msgstr ""
+
+#: xt-framework/includes/admin-tabs/class-framework-tabs.php:88
+msgid "Docs"
+msgstr ""
+
+#: xt-framework/includes/admin-tabs/class-framework-tabs.php:89
+msgid "Documentation"
+msgstr ""
+
+#: xt-framework/includes/admin-tabs/class-framework-tabs.php:100
+#: xt-framework/includes/admin-tabs/class-plugin-tabs.php:117
+#: xt-framework/includes/admin-tabs/class-plugin-tabs.php:128
+#: xt-framework/includes/class-framework.php:525
+msgid "Support"
+msgstr ""
+
+#: xt-framework/includes/admin-tabs/class-plugin-tabs.php:102
+msgid "Change Log"
+msgstr ""
+
+#: xt-framework/includes/admin-tabs/class-plugin-tabs.php:103
+msgid "About"
+msgstr ""
+
+#: xt-framework/includes/admin-tabs/class-plugin-tabs.php:138
+msgid "Make $$$"
+msgstr ""
+
+#: xt-framework/includes/admin-tabs/class-plugin-tabs.php:149
+msgid "Account"
+msgstr ""
+
+#: xt-framework/includes/admin-tabs/class-plugin-tabs.php:161
+msgid "Upgrade&nbsp;&nbsp;➤"
+msgstr ""
+
+#: xt-framework/includes/class-admin-messages.php:38
+#: xt-framework/includes/class-admin-messages.php:57
+#, php-format
+msgid ""
+"You can <a href=\"%s\">Upgrade</a> or <a href=\"%s\">Activate</a> your "
+"license to unlock access to %s."
+msgstr ""
+
+#: xt-framework/includes/class-admin-messages.php:77
+#, php-format
+msgid "The %s will unlock access to %s."
+msgstr ""
+
+#: xt-framework/includes/class-admin-messages.php:78
+msgid "Premium Version"
+msgstr ""
+
+#: xt-framework/includes/class-admin-messages.php:85
+msgid "Upgrade License"
+msgstr ""
+
+#: xt-framework/includes/class-admin-messages.php:88
+#: xt-framework/includes/license/includes/class-license.php:105
+msgid "Activate License"
+msgstr ""
+
+#: xt-framework/includes/class-conflicts-check.php:87
+#, php-format
+msgid "%1$s has been disabled since it cannot be active while using %2$s!"
+msgstr ""
+
+#: xt-framework/includes/class-dependencies-check.php:89
+#, php-format
+msgid "%1$s%2$s%3$s plugin requires %4$s to be installed and active."
+msgstr ""
+
+#: xt-framework/includes/class-framework.php:1792
+#: xt-framework/includes/class-framework.php:1802
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:67
+msgid "WordPress Version"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:68
+msgid "WooCommerce Version"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:69
+msgid "Available Memory"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:71
+msgid "TLS Version"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:72
+msgid "WordPress Cron"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:73
+msgid "SimpleXML"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:74
+msgid "MultiByte String"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:75
+msgid "ImageMagick Version"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:76
+msgid "GD Library"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:77
+msgid "Iconv Module"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:78
+msgid "OPCache Save Comments"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:79
+msgid "URL FOpen"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:96
+msgid "System Status"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:139
+msgid "General Info"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:143
+msgid "Site URL"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:151
+msgid "Output IP Address"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:159
+msgid "XT Framework PATH"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:167
+msgid "XT Framework Version"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:175
+msgid "Active XT Plugins"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:202
+msgid "System Info"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:231
+msgid "N/A"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:246
+#, php-format
+msgid "%s needs %s enabled"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:248
+#, php-format
+msgid "%s needs at least %s of available memory"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:251
+#: xt-framework/includes/class-system-status.php:297
+#, php-format
+msgid ""
+"For optimal functioning of our plugins, we suggest setting at least %s of "
+"available memory"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:254
+#, php-format
+msgid "%s needs at least %s version"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:264
+msgid ""
+"Update it to the latest version in order to benefit of all new features and "
+"security updates."
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:270
+msgid "Contact your hosting company in order to update it."
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:274
+#, php-format
+msgid "Remove %s from %s file"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:282
+msgid "Contact your hosting company in order to enable it."
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:285
+#: xt-framework/includes/class-system-status.php:299
+#, php-format
+msgid ""
+"Read more %s here%s or contact your hosting company in order to increase it."
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:305
+#, php-format
+msgid ""
+"We cannot determine which %1$sTLS%2$s version is installed because %1$scURL"
+"%2$s module is disabled. Ask your hosting company to enable it."
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:308
+#, php-format
+msgid ""
+"%1$sImageMagick%2$s module is not installed. Ask your hosting company to "
+"install it."
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:321
+msgid "Show Full PHP Info"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:325
+msgid "Back to System Status"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:342
+msgid "Back to top"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:365
+msgid "WooCommerce"
+msgstr ""
+
+#: xt-framework/includes/class-system-status.php:463
+#, php-format
+msgid ""
+"{title:} The system check has detected some compatibility issues on your "
+"installation. %sClick here%s to know more"
+msgstr ""
+
+#: xt-framework/includes/customizer/class-customizer.php:209
+msgid "Customize"
+msgstr ""
+
+#: xt-framework/includes/customizer/class-customizer.php:235
+#: xt-framework/includes/customizer/class-customizer.php:245
+msgid "Open in Customizer"
+msgstr ""
+
+#: xt-framework/includes/functions-formatting.php:38
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:600
+msgid "Day(s)"
+msgstr ""
+
+#: xt-framework/includes/functions-formatting.php:39
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:601
+msgid "Week(s)"
+msgstr ""
+
+#: xt-framework/includes/functions-formatting.php:40
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:602
+msgid "Month(s)"
+msgstr ""
+
+#: xt-framework/includes/functions-formatting.php:41
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:603
+msgid "Year(s)"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:108
+msgid "License Activated"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:115
+msgid "License"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:385
+#: xt-framework/includes/license/includes/class-license.php:482
+#, php-format
+msgid "Your Support License is %1$s."
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:386
+msgid "Not Activated"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:412
+#: xt-framework/includes/license/includes/class-license.php:429
+#: xt-framework/includes/license/includes/class-license.php:548
+msgid "Buy License"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:413
+msgid "Validate"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:419
+#, php-format
+msgid "This %1$s is activated somewhere else."
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:427
+msgid "Cancel"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:430
+msgid "Revoke"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:440
+#, php-format
+msgid "This %1$s is %2$s."
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:442
+msgid "Invalid"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:459
+#, php-format
+msgid "%1$sOops!%2$s %3$sCannot reach license server!%4$s"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:483
+msgid "Valid"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:494
+#, php-format
+msgid "Support & automated updates are now %1$s"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:508
+#, php-format
+msgid "Your Support License has %1$s."
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:509
+msgid "Expired"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:520
+#, php-format
+msgid ""
+"Support & automated updates are now %1$sDisabled%2$s!%3$sYou can still use "
+"the plugin%4$s and update it manually from Envato"
+msgstr ""
+
+#: xt-framework/includes/license/includes/class-license.php:549
+msgid "Revoke License"
+msgstr ""
+
+#: xt-framework/includes/license/includes/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:55
+msgid "View details"
+msgstr ""
+
+#: xt-framework/includes/license/includes/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:78
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: xt-framework/includes/license/includes/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:131
+msgid "Check for updates"
+msgstr ""
+
+#: xt-framework/includes/license/includes/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: xt-framework/includes/license/includes/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:219
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: xt-framework/includes/license/includes/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:221
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: xt-framework/includes/license/includes/plugin-update-checker/Puc/v4p8/Plugin/Ui.php:227
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: xt-framework/includes/license/includes/plugin-update-checker/Puc/v4p8/Vcs/PluginUpdateChecker.php:99
+msgid "There is no changelog available."
+msgstr ""
+
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:152
+msgid "Save Changes"
+msgstr ""
+
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:535
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:558
+msgid "Choose a country&hellip;"
+msgstr ""
+
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:558
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:583
+msgid "Country"
+msgstr ""
+
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:583
+msgid "Choose countries&hellip;"
+msgstr ""
+
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:591
+msgid "Select all"
+msgstr ""
+
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:591
+msgid "Select none"
+msgstr ""
+
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:702
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: xt-framework/includes/plugin-settings/class-plugin-settings.php:712
+msgid "Failed saving settings!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "XT WooCommerce Quick View"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://xplodedthemes.com/products/woo-quick-view/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An interactive product quick view modal for WooCommerce that provides the "
+"user a quick access to the main product information with smooth animation. "
+"Fully customizable right from WordPress Customizer with Live Preview."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "XplodedThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://xplodedthemes.com"
+msgstr ""

@@ -1,0 +1,54 @@
+.xtfw-admin-tabs-wrap {
+	.xtfw-customizer-tab {
+		ul ul{
+			padding: 0 20px 20px;
+		}
+		li{
+			cursor: pointer;
+			transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+			margin: 0;
+			display:block;
+
+			a{
+				display:block;
+				background: transparent;
+				text-decoration: none;
+				padding: 10px 0 10px 20px;
+				border: 0;
+				border-radius: 0;
+				font-size: 16px;
+				font-weight: 500;
+				border-bottom: 1px solid #eaeaea;
+				border-top: 1px solid transparent;
+				color: #777;
+				will-change: auto;
+				position: relative;
+
+				.dashicons{
+					margin-right: 10px;
+
+					&:last-child {
+						position:absolute;
+						left: initial;
+						right: .5em;
+						top: 50%;
+						transform: translateY(-50%);
+						margin-top: 0;
+						color: #777;
+						transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+					}
+				}
+
+				&:hover{
+					background: #eaeaea;
+					box-shadow: 0 0 5px rgba(40,40,40,0.15);
+					color: #000;
+
+					.dashicons{
+						color: #000;
+					}
+				}
+			}
+		}
+	}
+}

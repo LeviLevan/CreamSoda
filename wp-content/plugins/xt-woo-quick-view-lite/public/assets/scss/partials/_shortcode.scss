@@ -1,0 +1,17 @@
+
+.xt_wooqv-shortcode-product{
+	overflow: hidden;
+	height: 0;
+	opacity: 0;
+}
+.xt_wooqv-shortcode-trigger {
+	padding: .618em 1em;
+	border-radius: 3px;
+	text-decoration: none;
+	&:hover{
+		text-decoration: none;
+	}
+}
+.xt_wooqv-trigger.xt_wooqv-shortcode:not(.xt_wooqv-shortcode-trigger) {
+	display: none!important;
+}

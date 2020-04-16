@@ -1,0 +1,84 @@
+
+.xtfw-admin-tabs-wrap {
+
+  .xt-framework-system-info{
+    table {
+      td.requirement-value {
+        vertical-align: middle;
+
+        &.align-right{
+          text-align: right;
+        }
+
+        @media screen and (max-width: 782px) {
+          &.hide-on-mobile {
+            display:none;
+          }
+          &.align-right{
+            text-align: inherit;
+          }
+        }
+
+        .xtfw-badge {
+          float: none;
+          padding: 2px 8px;
+          min-width:100px;
+          margin-left: 0;
+          margin-right: 5px;
+          @media screen and (max-width: 1139px) {
+
+            & {
+              float: none;
+              margin-bottom: 5px;
+            }
+          }
+        }
+        .xtfw-badge-version{
+          float: right;
+          font-size: 15px;
+        }
+
+        .xtfw-market-logo {
+          height: 17px;
+          vertical-align: middle;
+
+          &.xtfw-market-envato{
+            height: 13px;
+            position: relative;
+            top: -2px;
+          }
+        }
+
+      }
+    }
+
+
+    @media screen and (max-width: 782px) {
+      .xt-plugins-table {
+        box-sizing: border-box;
+
+        th {
+          font-weight: 700;
+          padding-top: 20px;
+          padding-left: 20px;
+        }
+
+        td {
+          padding: 5px 20px;
+
+          &:last-child {
+            padding-bottom: 20px;
+          }
+        }
+
+        th,
+        td {
+          display: block;
+          width: 100%;
+        }
+      }
+    }
+
+  }
+}
+
