@@ -16,7 +16,10 @@ Text Domain: creamsoda
 .pointer-events .jet-woo-product-title{
     pointer-events: none;
  }
- .woocommerce-mini-cart.cart_list.product_list_widget li a {
+ .woocommerce-mini-cart.cart_list.product_list_widget li a img{
+    pointer-events: none;
+}
+ .woocommerce-mini-cart.cart_list.product_list_widget li a:nth-child(2){
     pointer-events: none;
 }
 .home_left_column {
@@ -106,6 +109,12 @@ iframe {
 iframe {
     border-radius: 2%;
 }
+.shop_table.woocommerce-checkout-review-order-table {
+
+    display: flex;
+    flex-direction: column;
+
+}
 .jet-woo-product-excerpt {
     min-height: 45px;
 }
@@ -167,6 +176,15 @@ iframe {
 }
 .pointer-events .jet-woo-products__item:hover .jet-woo-product-button a.xt_wooqv-trigger.button.alt.xt_wooqv-before.xt_wooqv-icontype-font{
 	box-shadow: 0px 0px 10px 0px #73CDC6;
+}
+.shop_table.woocommerce-checkout-review-order-table tfoot tr {
+
+    display: flex;
+    justify-content: space-between;
+
+}
+.shop_table.woocommerce-checkout-review-order-table tfoot tr th {
+    padding-right: 50px;
 }
 @media(min-width: 1200px){
 
