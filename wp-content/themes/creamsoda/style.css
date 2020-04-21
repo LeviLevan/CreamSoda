@@ -10,6 +10,18 @@ License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: creamsoda
 */
+#xt_wooqv {
+    border-radius: 6px;
+}
+.xt_wooqv-loading #xt_wooqv  {
+    background-color: #fff !important;
+    box-shadow: 0 0 30px rgba(0,0,0,0.2) !important;
+    background: url('/wp-content/uploads/2020/04/5.gif') center center no-repeat;
+}
+.page-preloader {
+    border-top-color: #73CDC6 !important;
+    border-right-color: #73CDC6 !important;
+}
 .pointer-events .jet-woo-product-thumbnail {
     pointer-events: none;
 }
@@ -204,6 +216,17 @@ iframe {
 
     width: 100%;
 
+}
+#xt_wooqv .xt_wooqv-item-info .product_title {
+    font-family: "Gilroy", Sans-serif !important;
+}
+.woocommerce-Price-amount.amount {
+
+    font-family: "Gilroy", Sans-serif !important;
+
+}
+.woocommerce-product-details__short-description{
+    font-family: "Gilroy", Sans-serif !important;
 }
 @media(min-width: 1200px){
 

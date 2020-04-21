@@ -277,4 +277,71 @@ function woo_remove_specific_country( $country )
 return $country; 
 }
 add_filter( 'woocommerce_countries', 'woo_remove_specific_country', 10, 1 );
-	
+
+//add_action( 'elementor/controls/controls_registered', '__tm_add_theme_icons_to_icon_control', 20 );
+ 
+	// function __tm_add_theme_icons_to_icon_control( $controls_manager ) {
+	//    $default_icons = $controls_manager->get_control( 'icon' )->get_settings( 'options' );
+	 
+	//    $iconsmind_icons_data = array(
+	//       'icons'  => __tm_get_iconsmind_icons_set(),
+	//       'format' => ' %s',
+	//    );
+	 
+	//    $iconsmind_icons_array = array();
+	 
+	//    foreach( $iconsmind_icons_data['icons'] as $index => $icon ) {
+	//       $key = sprintf( $iconsmind_icons_data['format'], $icon );
+	 
+	//       $iconsmind_icons_array[ $key ] = $icon;
+	//    }
+	 
+	//    $new_icons = array_merge( $default_icons, $iconsmind_icons_array );
+	 
+	//    $controls_manager->get_control( 'icon' )->set_settings( 'options', $new_icons );
+	// }
+	  
+	// function __tm_get_iconsmind_icons_set() {
+	 
+	//    static $iconsmind_icons;
+	 
+	//    if ( ! $iconsmind_icons ) {
+	//       ob_start();
+	 
+	//       include 'http://creamsoda-dev/wp-content/themes/creamsoda/css/fonts.css';
+	 
+	//       $result = ob_get_clean();
+	 
+	//       preg_match_all( '/\.([-_a-zA-Z0-9]+):before[, {]/', $result, $matches );
+	 
+	//       if ( ! is_array( $matches ) || empty( $matches[1] ) ) {
+	//          return;
+	//       }
+	 
+	//       $iconsmind_icons = $matches[1];
+	//    }
+	 
+	//    return $iconsmind_icons;
+	// }
+
+	// add_action( 'elementor/editor/after_enqueue_styles', '_tm_enqueue_font' );
+	// add_action( 'elementor/frontend/after_enqueue_styles', '_tm_enqueue_font' );
+	 
+	// function _tm_enqueue_font() {
+	//     wp_enqueue_style( 'custom-fonts', '/wp-content/themes/creamsoda/css/fonts.css' );
+	// }
+
+
+
+
+
+
+	function modify_controls( $controls_registry ) {
+    // First we get the fonts setting of the font control
+ 	$fonts = $controls_registry->get_control( 'font' )->get_settings( 'options' );
+	// Then we append the custom font family in the list of the fonts we retrieved in the previous step
+ 	$new_fonts = array_merge( [ 'Gilroy' => 'system' ], $fonts );
+	// Then we set a new list of fonts as the fonts setting of the font control
+ 	$controls_registry->get_control( 'font' )->set_settings( 'options', $new_fonts );
+}
+add_action( 'elementor/controls/controls_registered', 'modify_controls', 10, 1 );
