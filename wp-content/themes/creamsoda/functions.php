@@ -90,22 +90,10 @@ function creamsoda_plugins_wizard_config() {
 				'path'   => get_stylesheet_directory() . '/plugins/jet-elements.zip',
 				'access' => 'skins',
 				),
-			'jet-compare-wishlist' => array(
-				'name'   => esc_html__( 'Jet Compare Wishlist', 'creamsoda' ),
-				'source' => 'local',
-				'path'   => get_stylesheet_directory() . '/plugins/jet-compare-wishlist.zip',
-				'access' => 'skins',
-				),
 			'jet-blocks' => array(
 				'name'   => esc_html__( 'Jet Blocks', 'creamsoda' ),
 				'source' => 'local',
 				'path'   => get_stylesheet_directory() . '/plugins/jet-blocks.zip',
-				'access' => 'skins',
-				),
-			'jet-tabs' => array(
-				'name'   => esc_html__( 'Jet Tabs', 'creamsoda' ),
-				'source' => 'local',
-				'path'   => get_stylesheet_directory() . '/plugins/jet-tabs.zip',
 				'access' => 'skins',
 				),
 			'jet-tricks' => array(
@@ -126,28 +114,10 @@ function creamsoda_plugins_wizard_config() {
 				'path'   => get_stylesheet_directory() . '/plugins/jet-woo-builder.zip',
 				'access' => 'skins',
 				),
-			'jet-smart-filters' => array(
-				'name'   => esc_html__( 'Jet Smart Filters', 'creamsoda' ),
-				'source' => 'local',
-				'path'   => get_stylesheet_directory() . '/plugins/jet-smart-filters.zip',
-				'access' => 'skins',
-				),
-			'jet-menu' => array(
-				'name'   => esc_html__( 'Jet Menu', 'creamsoda' ),
-				'source' => 'local',
-				'path'   => get_stylesheet_directory() . '/plugins/jet-menu.zip',
-				'access' => 'skins',
-				),
 			'jet-popup' => array(
 				'name'   => esc_html__( 'Jet Popup', 'creamsoda' ),
 				'source' => 'local',
 				'path'   => get_stylesheet_directory() . '/plugins/jet-popup.zip',
-				'access' => 'skins',
-				),
-			'jet-woo-product-gallery' => array(
-				'name'   => esc_html__( 'Jet Woo Product Gallery', 'creamsoda' ),
-				'source' => 'local',
-				'path'   => get_stylesheet_directory() . '/plugins/jet-woo-product-gallery.zip',
 				'access' => 'skins',
 				),
 			'woocommerce' => array(
@@ -164,19 +134,14 @@ function creamsoda_plugins_wizard_config() {
 				'default' => array(
 					'full'  => array(
 						'elementor',
-						'jet-compare-wishlist',
 						'jet-blocks',
 						'jet-elements',
-						'jet-tabs',
 						'jet-theme-core',
 						'jet-tricks',
 						'contact-form-7',
 						'woocommerce',
 						'jet-woo-builder',
-						'jet-menu',
-						'jet-smart-filters',
 						'jet-popup',
-						'jet-woo-product-gallery',
 						),
 					'lite'  => false,
 					'demo'  => '',
