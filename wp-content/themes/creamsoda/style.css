@@ -228,6 +228,9 @@ iframe {
 .woocommerce-product-details__short-description{
     font-family: "Gilroy", Sans-serif !important;
 }
+.widget_shopping_cart ul li a:not(.remove) {
+    padding-right: 20px !important;
+}
 @media(min-width: 1200px){
 
 	.carousel_home .jet-arrow.prev-arrow.slick-arrow i {
